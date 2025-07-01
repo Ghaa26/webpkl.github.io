@@ -1,0 +1,53 @@
+body {
+	font: 16px/28px arial, sans-serif;
+	background-color: white;
+	background-image: url(../../GAMBAR/BG0.jpg); 
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: #333;
+}
+
+.ed {
+	width: 800px;
+	margin: auto;
+	background-color: #F5F5F5;
+}
+.de {
+	padding: 20px;
+	padding-bottom: 5px;
+}
+
+.de .judul {
+	font-size: 40px;
+	font-weight: bold;
+}
+.header .judul {
+	font-size: 40px;
+	font-weight: bold;
+}
+.header ul li {
+	display:  inline-block;
+	margin-top: 20px;
+	margin-right: 10px;
+	text-align: center;
+}
+
+.header a {
+	text-decoration: none;
+	color: black;
+	padding: 3px;
+}
+
+.header a:hover {
+	background-color: red;
+	color: white;
+}
+.oy {
+	height: 500px;
+	background-image: url(../../GAMBAR/SIRKULASI_UPI.jpg);
+	background-size: cover;
+	background-position: 0 0px;
+h1 {
+	text-align: center;
+}
