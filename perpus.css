@@ -7,18 +7,17 @@ body {
 	background-attachment: fixed;
 	color: #333;
 }
-
-.we {
+.container {
 	width: 800px;
 	margin: auto;
 	background-color: #F5F5F5;
 }
-.kp {
+.header {
 	padding: 20px;
 	padding-bottom: 5px;
 }
 
-.kp .judul {
+.header .judul {
 	font-size: 40px;
 	font-weight: bold;
 }
