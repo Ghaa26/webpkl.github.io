@@ -8,17 +8,17 @@ body {
 	color: #333;
 }
 
-.pe {
+.container {
 	width: 800px;
 	margin: auto;
 	background-color: #F5F5F5;
 }
-.ep {
+.header {
 	padding: 20px;
 	padding-bottom: 5px;
 }
 
-.ep .judul {
+.header .judul {
 	font-size: 40px;
 	font-weight: bold;
 }
