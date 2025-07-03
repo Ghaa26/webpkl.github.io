@@ -41,7 +41,7 @@ body {
 
 .hero {
 	height: 180px;
-	background-image: url(../../GAMBAR/TULISAN_UPI.jpg);
+	background-image: url(./GAMBAR/TULISAN_UPI.jpg);
 	background-size: cover;
 	background-position: 0 -17px;
 	border-top: 5px solid red;
