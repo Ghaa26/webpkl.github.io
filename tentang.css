@@ -1,7 +1,7 @@
 body {
 	font: 16px/28px arial, sans-serif;
 	background-color: white;
-	background-image: url(../../GAMBAR/BG0.jpg); 
+	background-image: url(./GAMBAR/BG0.jpg); 
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -41,7 +41,7 @@ body {
 
 .hero {
 	height: 180px;
-	background-image: url(GAMBAR/TULISAN_UPI.jpg);
+	background-image: url(./GAMBAR/TULISAN_UPI.jpg);
 	background-size: cover;
 	background-position: 0 -17px;
 	border-top: 5px solid red;
