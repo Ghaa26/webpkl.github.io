@@ -1,7 +1,7 @@
 body {
 	font: 16px/28px arial, sans-serif;
 	background-color: white;
-	background-image: url(../../GAMBAR/BG0.jpg); 
+	background-image: url(./GAMBAR/BG0.jpg); 
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -40,7 +40,7 @@ body {
 }
 .oy {
 	height: 500px;
-	background-image: url(../../GAMBAR/SIRKULASI_UPI.jpg);
+	background-image: url(./GAMBAR/SIRKULASI_UPI.jpg);
 	background-size: cover;
 	background-position: 0 0px;
 h1 {
