@@ -46,6 +46,13 @@ body {
 h1 {
 	text-align: center;
 }
+* {
+  user-select: none !important;         /* Nonaktifkan seleksi teks */
+  -webkit-user-select: none !important; /* Safari/Chrome */
+  -moz-user-select: none !important;    /* Firefox */
+  -ms-user-select: none !important;     /* Internet Explorer */
+  -webkit-tap-highlight-color: transparent; /* Hilangkan highlight biru di mobile */
+}	
 h1 h2 h3 h4 p {
   user-select: none !important;
   -webkit-user-select: none !important;
