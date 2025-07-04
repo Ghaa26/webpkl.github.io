@@ -5,6 +5,11 @@
   document.addEventListener('contextmenu', function (e) {
     e.preventDefault();
   });
+	document.addEventListener('keydown', function (e) {
+    if ((e.ctrlKey || e.metaKey) && ['c', 'u', 'x', 'a', 's'].includes(e.key.toLowerCase())) {
+      e.preventDefault();
+    }
+  });
 </script>
 	<title>WEBSITE PERPUSTAKAAN UPI</title>
 	<link rel="stylesheet" type="text/css" href="style2.css">
