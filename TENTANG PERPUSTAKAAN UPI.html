@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
+<script>
+  document.addEventListener('contextmenu', function (e) {
+    e.preventDefault();
+  });
+	document.addEventListener('keydown', function (e) {
+    if ((e.ctrlKey || e.metaKey) && ['c', 'u', 'x', 'a', 's'].includes(e.key.toLowerCase())) {
+      e.preventDefault();
+    }
+  });
+</script>
 	<title></title>
 </head>
 <body>
