@@ -63,7 +63,7 @@ h1 {
   -ms-user-select: none !important;     /* Internet Explorer */
   -webkit-tap-highlight-color: transparent; /* Hilangkan highlight biru di mobile */
 }
-.no-select {
+{
   user-select: none !important;
   -webkit-user-select: none !important;
   -moz-user-select: none !important;
