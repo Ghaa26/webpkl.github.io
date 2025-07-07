@@ -52,8 +52,8 @@ body {
 h1 {
 	text-align: center;
 }
-.p {
-	margin : 20px;
+p {
+	margin: 20px;
 * {
   user-select: none !important;         /* Nonaktifkan seleksi teks */
   -webkit-user-select: none !important; /* Safari/Chrome */
