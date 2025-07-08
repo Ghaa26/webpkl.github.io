@@ -61,7 +61,6 @@ h1 h2 h3 h4 p{
 	margin: 20px;
 }
 * {
-	display: none;
   user-select: none !important;         /* Nonaktifkan seleksi teks */
   -webkit-user-select: none !important; /* Safari/Chrome */
   -moz-user-select: none !important;    /* Firefox */
@@ -69,7 +68,6 @@ h1 h2 h3 h4 p{
   -webkit-tap-highlight-color: transparent; /* Hilangkan highlight biru di mobile */
 }
 h1 h2 p {
-	display: none;
   user-select: none !important;
   -webkit-user-select: none !important;
   -moz-user-select: none !important;
