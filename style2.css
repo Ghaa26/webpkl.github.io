@@ -60,7 +60,7 @@ h1 {
 h1 h2 h3 h4 p{
 	margin: 20px;
 }
-* {
+<!--* {
   user-select: none !important;         /* Nonaktifkan seleksi teks */
   -webkit-user-select: none !important; /* Safari/Chrome */
   -moz-user-select: none !important;    /* Firefox */
@@ -73,4 +73,4 @@ h1 h2 p {
   -moz-user-select: none !important;
   -ms-user-select: none !important;
   -webkit-tap-highlight-color: transparent;
-}
+}-->
