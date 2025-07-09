@@ -46,12 +46,10 @@ body {
 	color: white;
 }
 .hero {
-	height: 180px;
+	height: 500px;
 	background-image: url(./GAMBAR/SIRKULASI_UPI.jpg);
 	background-size: cover;
-	background-position: 0 -17px;
-	border-top: 5px solid red;
-	border-bottom: 5px solid red;
+	background-position: 0 0px;
 }
 .oy {
 	height: 500px;
