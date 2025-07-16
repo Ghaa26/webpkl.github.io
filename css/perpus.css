@@ -1,0 +1,76 @@
+body {
+	font: 16px/28px arial, sans-serif;
+	background-color: white;
+	background-image: url(./GAMBAR/BG0.jpg); 
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: #333;
+}
+body {
+  user-select: none;
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none;    /* Firefox */
+  -ms-user-select: none;     /* IE/Edge */
+}
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: #F5F5F5;
+}
+.header {
+	padding: 20px;
+	padding-bottom: 5px;
+}
+
+.header .judul {
+	font-size: 40px;
+	font-weight: bold;
+}
+.header ul li {
+	display:  inline-block;
+	margin-top: 20px;
+	margin-right: 40px;
+	text-align: center;
+	font-size: 25px;
+}
+
+.header a {
+	text-decoration: none;
+	color: black;
+	padding: 3px;
+}
+
+.header a:hover {
+	background-color: red;
+	color: white;
+}
+
+.hero {
+	height: 180px;
+
+	background-size: cover;
+	background-position: 0 -17px;
+	border-top: 5px solid red;
+	border-bottom: 5px solid red;
+}
+h1 {
+	text-align: center;
+}
+p {
+	margin: 20px;
+}
+* {
+  user-select: none !important;         /* Nonaktifkan seleksi teks */
+  -webkit-user-select: none !important; /* Safari/Chrome */
+  -moz-user-select: none !important;    /* Firefox */
+  -ms-user-select: none !important;     /* Internet Explorer */
+  -webkit-tap-highlight-color: transparent; /* Hilangkan highlight biru di mobile */
+}
+h1 h2 h3 h4 p {
+  user-select: none !important;
+  -webkit-user-select: none !important;
+  -moz-user-select: none !important;
+  -ms-user-select: none !important;
+  -webkit-tap-highlight-color: transparent;
+}
