@@ -50,6 +50,8 @@ body {
 	background-image: url(./GAMBAR/SIRKULASI_UPI.jpg);
 	background-size: cover;
 	background-position: 0 0px;
+	margin-right: 20px;
+	margin-left: 20px;
 }
 h1 {
 	text-align: center;
